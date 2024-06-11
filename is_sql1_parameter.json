@@ -59,13 +59,13 @@
       "value": "RG_SIMULATION_DEST"
     },
     "osDiskId": {
-        "value": "/subscriptions/abd09325-6c0e-4329-be3e-da889da64e8c/resourceGroups/iSeller/providers/Microsoft.Compute/disks/is-sql1-OSdisk-00-copy-disk"
+        "value": "/subscriptions/d3b269f8-d5f8-4942-ba31-158fb47c0ce9/resourceGroups/RG_SIMULATION_DEST/providers/Microsoft.Compute/disks/is-sql1-OSdisk-00-copy-disk"
       },
     "dataDiskId1": {
-        "value": "/subscriptions/abd09325-6c0e-4329-be3e-da889da64e8c/resourceGroups/iSeller/providers/Microsoft.Compute/disks/is-sql1-datadisk-01-copy-disk"
+        "value": "/subscriptions/d3b269f8-d5f8-4942-ba31-158fb47c0ce9/resourceGroups/RG_SIMULATION_DEST/providers/Microsoft.Compute/disks/is-sql1-datadisk-01-copy-disk"
     },
     "dataDiskId2": {
-        "value": "/subscriptions/abd09325-6c0e-4329-be3e-da889da64e8c/resourceGroups/iSeller/providers/Microsoft.Compute/disks/is-sql1-datadisk-02-copy-disk"
+        "value": "/subscriptions/d3b269f8-d5f8-4942-ba31-158fb47c0ce9/resourceGroups/RG_SIMULATION_DEST/providers/Microsoft.Compute/disks/is-sql1-datadisk-02-copy-disk"
     },
     "virtualMachineSize": {
       "value": "Standard_B2s"
