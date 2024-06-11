@@ -92,7 +92,7 @@
       "value": "isellercopytest"
     },
     "diagnosticsStorageAccountId": {
-      "value": "/subscriptions/bda026af-224f-407e-b2fb-adeee91f9644/resourceGroups/RG_SIMULATION/providers/Microsoft.Storage/storageAccounts/isellercopytest"
+      "value": "/subscriptions/d3b269f8-d5f8-4942-ba31-158fb47c0ce9/resourceGroups/RG_SIMULATION/providers/Microsoft.Storage/storageAccounts/isellercopytest"
     }
   }
 }
